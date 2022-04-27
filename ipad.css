@@ -1,0 +1,18 @@
+
+.hero{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    grid-auto-rows: 400px;
+}
+
+
+.hero-info h1{
+    font-size: 4rem;
+    line-height: 4.2rem;
+}
+
+.hero-info p{
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+}
+
